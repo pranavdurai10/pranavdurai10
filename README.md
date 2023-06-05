@@ -15,9 +15,9 @@ Hi, I'm Pranav Durai, a Computer Vision Engineer at Big Vision LLC. I'm also a p
 
 ## GitHub Statistics
 
-[![YourUsername's GitHub stats](https://github-readme-stats.vercel.app/api?username=pranavdurai10&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![YourUsername's GitHub stats](https://github-readme-stats.vercel.app/api?username=pranavdurai10&show_icons=true&theme=dark)](https://github.com/pranavdurai10/pranavdurai10)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranavdurai10&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranavdurai10&layout=compact&theme=dark)](https://https://github.com/pranavdurai10/pranavdurai10)
 
 ## Repository Highlights
 
