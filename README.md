@@ -1,4 +1,4 @@
-# Welcome to My GitHub Profile! 👋
+# Hello, World! 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=pranavdurai10&color=brightgreen)
 ![GitHub Followers](https://img.shields.io/github/followers/pranavdurai10?label=Follow&style=social)
