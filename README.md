@@ -21,5 +21,5 @@ Hi, I'm Pranav Durai, a Computer Vision Engineer at Big Vision LLC. I'm also a p
 
 ## Repository Highlights
 
-- [Repository 1](https://https://github.com/pranavdurai10/quantum-gates): Quantum Computer Gates - using Qiskit Framework.
+- [Repository 1](https://github.com/pranavdurai10/quantum-gates): Quantum Computer Gates - using Qiskit Framework.
 - [Repository 2](https://github.com/YourUsername/Repository2): Un-official ResNet model implementation using PyTorch.
