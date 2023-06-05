@@ -8,6 +8,14 @@
 
 Hi, I'm Pranav Durai, a Computer Vision Engineer at Big Vision LLC. I'm also a passionate Quantum AI Researcher! 
 
+I travelled 1000s of kilometers on my motorcycle, exploring nature. 
+
+I'm an ardent Apple Fan and have been following the company since 2010.
+
+I intend to help humanity sustain in the future. 
+
+DARE MIGHTY THINGS 🚀
+
 ## Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-pranavdurai-blue)](https://www.linkedin.com/in/pranav-durai/)
