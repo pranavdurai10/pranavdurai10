@@ -13,12 +13,6 @@ Hi, I'm Pranav Durai, a Computer Vision Engineer at Big Vision LLC. I'm also a p
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-pranavdurai-blue)](https://www.linkedin.com/in/pranav-durai/)
 [![Twitter](https://img.shields.io/badge/Twitter-pranavdurai10-blue)](https://twitter.com/pranavdurai10)
 
-## GitHub Statistics
-
-[![Pranav's GitHub stats](https://github-readme-stats.vercel.app/api?username=pranavdurai10)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranavdurai10&layout=compact&theme=dark)](https://github.com/pranavdurai10/)
-
 ## Repository Highlights
 
 - [Repository 1](https://github.com/pranavdurai10/quantum-gates): Quantum Computer Gates - using Qiskit Framework.
