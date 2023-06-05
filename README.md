@@ -10,8 +10,8 @@ Hi, I'm Pranav Durai, a Computer Vision Engineer at Big Vision LLC. I'm also a p
 
 ## Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-pranavdurai-blue)](https://https://www.linkedin.com/in/pranav-durai/)
-[![Twitter](https://img.shields.io/badge/Twitter-pranavdurai10-blue)](https://https://twitter.com/pranavdurai10)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-pranavdurai-blue)](https://www.linkedin.com/in/pranav-durai/)
+[![Twitter](https://img.shields.io/badge/Twitter-pranavdurai10-blue)](https://twitter.com/pranavdurai10)
 
 ## GitHub Statistics
 
