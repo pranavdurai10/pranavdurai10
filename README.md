@@ -16,12 +16,7 @@ I intend to help humanity sustain in the future.
 
 DARE MIGHTY THINGS 🚀
 
-## Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-pranavdurai-blue)](https://www.linkedin.com/in/pranav-durai/)
-[![Twitter](https://img.shields.io/badge/Twitter-pranavdurai10-blue)](https://twitter.com/pranavdurai10)
-
 ## Repository Highlights
 
-- [Repository 1](https://github.com/pranavdurai10/quantum-gates): Quantum Computer Gates - using Qiskit Framework.
-- [Repository 2](https://github.com/YourUsername/Repository2): Un-official ResNet model implementation using PyTorch.
+- [quantum-gates](https://github.com/pranavdurai10/quantum-gates): Quantum Computer Gates - using Qiskit Framework.
+- [resnet-model](https://github.com/YourUsername/Repository2): Un-official ResNet model implementation using PyTorch.
