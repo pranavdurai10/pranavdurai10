@@ -8,7 +8,7 @@
 
 Hi, I'm Pranav Durai, a Computer Vision Engineer at Big Vision LLC. I'm also a passionate Quantum AI Researcher! 
 
-I travelled 1000s of kilometers on my motorcycle, exploring nature. 
+I travelled 1000s of kilometers on my motorcycle, exploring nature to find myself. 
 
 I'm an ardent Apple Fan and have been following the company since 2010.
 
@@ -19,4 +19,4 @@ DARE MIGHTY THINGS 🚀
 ## Repository Highlights
 
 - [quantum-gates](https://github.com/pranavdurai10/quantum-gates): Quantum Computer Gates - using Qiskit Framework.
-- [resnet-model](https://github.com/YourUsername/Repository2): Un-official ResNet model implementation using PyTorch.
+- [resnet-model](https://github.com/pranavdurai10/resnet-model): Un-official ResNet model implementation using PyTorch.
