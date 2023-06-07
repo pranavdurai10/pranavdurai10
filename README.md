@@ -15,8 +15,3 @@ I'm an ardent Apple Fan and have been following the company since 2010.
 I intend to help humanity sustain in the future. 
 
 DARE MIGHTY THINGS 🚀
-
-## Repository Highlights
-
-- [quantum-gates](https://github.com/pranavdurai10/quantum-gates): Quantum Computer Gates - using Qiskit Framework.
-- [resnet-model](https://github.com/pranavdurai10/resnet-model): Un-official ResNet model implementation using PyTorch.
