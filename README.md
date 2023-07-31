@@ -8,6 +8,8 @@
 
 Hi, I'm Pranav Durai, a Computer Vision Engineer at Big Vision LLC. I'm also a passionate Quantum AI Researcher! 
 
+I'm also serving as a Research Fellow at Stanford University - School of Medicine, where my area of work is related to pre-clinical medical imaging. 
+
 I travelled 1000s of kilometers on my motorcycle to explore nature, and to find myself. 
 
 I'm an ardent Apple Fan and have been following the company since 2010.
