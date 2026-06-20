@@ -1,4 +1,4 @@
-Hello, World! 👋
+Hello, World!
 
 ![Profile Views](https://komarev.com/ghpvc/?username=pranavdurai10&color=brightgreen)
 ![GitHub Followers](https://img.shields.io/github/followers/pranavdurai10?label=Follow&style=social)
@@ -12,4 +12,4 @@ When I’m not building, you’ll probably find me somewhere on a motorcycle, ch
 
 ⸻
 
-DARE MIGHTY THINGS 🚀
+DARE MIGHTY THINGS.
