@@ -6,7 +6,7 @@ Hello, World!
 
 Engineer. Researcher. Builder.
 
-Building intelligent systems on Earth, with an eye toward what comes next.
+I build intelligent systems on Earth with an eye toward what comes next.
 
 When I’m not building, you’ll probably find me somewhere on a motorcycle, chasing a new road and a better question.
 
